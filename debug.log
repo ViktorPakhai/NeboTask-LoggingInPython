@@ -1,0 +1,25 @@
+[2023-08-31 10:44:37,975] ERROR [s3-copy-with-loggger.py dev create_aws_session (18)]: Error creating AWS session: The config profile (private1) could not be found
+[2023-08-31 11:03:04,243] WARNING [s3-copy-with-loggger.py dev create_aws_session (15)]: AWS session: <botocore.client.S3 object at 0x00000216E8154100>
+[2023-08-31 11:05:06,455] WARNING [s3-copy-with-loggger.py dev create_aws_session (15)]: AWS session: <botocore.client.S3 object at 0x00000107CBF54100>
+[2023-08-31 11:10:08,710] WARNING [s3-copy-with-loggger.py dev create_aws_session (15)]: AWS session: <botocore.client.S3 object at 0x000002001A9540A0>
+[2023-08-31 11:10:10,156] ERROR [s3-copy-with-loggger.py dev upload_to_s3 (38)]: Error uploading file: An error occurred (404) when calling the HeadObject operation: Not Found
+[2023-08-31 11:10:10,449] ERROR [s3-copy-with-loggger.py dev upload_to_s3 (38)]: Error uploading file: An error occurred (404) when calling the HeadObject operation: Not Found
+[2023-08-31 11:10:10,736] ERROR [s3-copy-with-loggger.py dev upload_to_s3 (38)]: Error uploading file: An error occurred (404) when calling the HeadObject operation: Not Found
+[2023-08-31 11:10:22,236] WARNING [s3-copy-with-loggger.py dev create_aws_session (15)]: AWS session: <botocore.client.S3 object at 0x0000026EE4B3FC70>
+[2023-08-31 11:10:23,662] ERROR [s3-copy-with-loggger.py dev upload_to_s3 (38)]: Error uploading file: Failed to upload d://s3/oe.sh to nebotask-test-data/folder//oe.sh: An error occurred (NoSuchBucket) when calling the PutObject operation: The specified bucket does not exist
+[2023-08-31 11:10:25,038] ERROR [s3-copy-with-loggger.py dev upload_to_s3 (38)]: Error uploading file: Failed to upload d://s3/oec.yaml to nebotask-test-data/folder//oec.yaml: An error occurred (NoSuchBucket) when calling the PutObject operation: The specified bucket does not exist
+[2023-08-31 11:10:26,461] ERROR [s3-copy-with-loggger.py dev upload_to_s3 (38)]: Error uploading file: Failed to upload d://s3/opetrenkosettings.txt to nebotask-test-data/folder//opetrenkosettings.txt: An error occurred (NoSuchBucket) when calling the PutObject operation: The specified bucket does not exist
+[2023-08-31 11:12:49,534] WARNING [s3-copy-with-loggger.py dev create_aws_session (15)]: AWS session: <botocore.client.S3 object at 0x0000024FF2E3BCD0>
+[2023-08-31 11:12:50,945] ERROR [s3-copy-with-loggger.py dev upload_to_s3 (38)]: Error uploading file: Failed to upload d://s3/oe.sh to nebotask-test-data/folder//oe.sh: An error occurred (NoSuchBucket) when calling the PutObject operation: The specified bucket does not exist
+[2023-08-31 11:12:52,122] ERROR [s3-copy-with-loggger.py dev upload_to_s3 (38)]: Error uploading file: Failed to upload d://s3/oec.yaml to nebotask-test-data/folder//oec.yaml: An error occurred (NoSuchBucket) when calling the PutObject operation: The specified bucket does not exist
+[2023-08-31 11:12:53,359] ERROR [s3-copy-with-loggger.py dev upload_to_s3 (38)]: Error uploading file: Failed to upload d://s3/opetrenkosettings.txt to nebotask-test-data/folder//opetrenkosettings.txt: An error occurred (NoSuchBucket) when calling the PutObject operation: The specified bucket does not exist
+[2023-08-31 11:13:05,714] ERROR [s3-copy-with-loggger.py dev create_aws_session (18)]: Error creating AWS session: The config profile (private1) could not be found
+[2023-08-31 11:13:05,715] ERROR [s3-copy-with-loggger.py dev upload_to_s3 (38)]: Error uploading file: 'NoneType' object has no attribute 'upload_file'
+[2023-08-31 11:13:05,716] ERROR [s3-copy-with-loggger.py dev upload_to_s3 (38)]: Error uploading file: 'NoneType' object has no attribute 'upload_file'
+[2023-08-31 11:13:05,716] ERROR [s3-copy-with-loggger.py dev upload_to_s3 (38)]: Error uploading file: 'NoneType' object has no attribute 'upload_file'
+[2023-08-31 11:15:10,228] WARNING [s3-copy-with-loggger.py dev create_aws_session (15)]: AWS session: <botocore.client.S3 object at 0x00000215FB83FC70>
+[2023-08-31 11:15:11,664] ERROR [s3-copy-with-loggger.py dev upload_to_s3 (38)]: Error uploading file: Failed to upload d://s3/oe.sh to nebotask-test-data/folder//oe.sh: An error occurred (NoSuchBucket) when calling the PutObject operation: The specified bucket does not exist
+[2023-08-31 11:15:12,976] ERROR [s3-copy-with-loggger.py dev upload_to_s3 (38)]: Error uploading file: Failed to upload d://s3/oec.yaml to nebotask-test-data/folder//oec.yaml: An error occurred (NoSuchBucket) when calling the PutObject operation: The specified bucket does not exist
+[2023-08-31 11:15:14,381] ERROR [s3-copy-with-loggger.py dev upload_to_s3 (38)]: Error uploading file: Failed to upload d://s3/opetrenkosettings.txt to nebotask-test-data/folder//opetrenkosettings.txt: An error occurred (NoSuchBucket) when calling the PutObject operation: The specified bucket does not exist
+[2023-08-31 11:16:49,846] WARNING [s3-copy-with-loggger.py dev create_aws_session (15)]: AWS session: <botocore.client.S3 object at 0x0000019C4C93FC70>
+[2023-08-31 11:24:35,550] ERROR [s3-copy-with-loggger.py dev create_aws_session (18)]: Error creating AWS session: The config profile (private1) could not be found
